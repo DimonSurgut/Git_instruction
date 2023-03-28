@@ -6,6 +6,8 @@
 
 ![ghp](punktone.png)
 
+fdahfhd
+
 ## 2.Настойка git
 на этом этапе введя команды "git config --global user name or emale" я обозначил программ как меня зовут и почту. 
 
